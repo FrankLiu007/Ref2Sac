@@ -1,5 +1,5 @@
 # Ref2Sac
-## This is my work about 5 years age!!!
+## This is my work about 5 years ago!!!
 ### This soft package is used to cut data from field data recorded by REFTEK130. Initaily coding was for receiver function data preparation. It was written to directly get event data (SAC format) from the REF data archive.  
 
 It is very simple python script and depends on some other progam which I will provide later.
